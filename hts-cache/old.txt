@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:42:55	122/122	---M--	502	error ('Bad%20Gateway')	text/html	date:Wed,%2017%20Apr%202024%2007:58:26%20GMT	https://www.antattoo.net/robots.txt		(from )
+13:42:55	122/122	---M--	502	error ('Bad%20Gateway')	text/html	date:Wed,%2017%20Apr%202024%2007:58:26%20GMT	https://www.antattoo.net/	D:/client-sites/edentattoonepal/www.antattoo.net/index.html	(from )
+13:42:56	122/122	---M--	502	error ('Bad%20Gateway')	text/html	date:Wed,%2017%20Apr%202024%2007:58:27%20GMT	https://www.antattoo.net/	D:/client-sites/edentattoonepal/www.antattoo.net/index.html	(from )
+13:42:56	122/122	---M--	502	error ('Bad%20Gateway')	text/html	date:Wed,%2017%20Apr%202024%2007:58:27%20GMT	https://www.antattoo.net/	D:/client-sites/edentattoonepal/www.antattoo.net/index.html	(from )

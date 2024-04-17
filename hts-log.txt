@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 17 Apr 2024 13:43:44 at https://www.antattoo.net/ +*.png* +*.gif* +*.jpg* +*.jpeg* +*.css* +*.js -ad.doubleclick.net/* -mime:application/foobar +*webp* +*.otf* +*.ttf* +*.svg* +*.woff2* +*jpg*
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Desgined by SewaTech Pvt Ltd, Kathmandu, Nepal -->" -%l "en, *" https://www.antattoo.net/ -O1 "D:\client-sites\edentattoonepal" +*.png* +*.gif* +*.jpg* +*.jpeg* +*.css* +*.js -ad.doubleclick.net/* -mime:application/foobar +*webp* +*.otf* +*.ttf* +*.svg* +*.woff2* +*jpg* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:49:02	Error: 	"Not Found" (404) at link https://www.antattoo.net/artists/"https://assets-global.website-files.com/6494932f10d97a8d81da5667/64a3b1b9a64f590530ab65c7_Artboard 1.jpg" (from https://www.antattoo.net/artists/lindsey-pergentile)
+13:49:02	Error: 	"Not Found" (404) at link https://www.antattoo.net/artists/"https://assets-global.website-files.com/6494932f10d97a8d81da5667/64a3ab40697ab4e14b407c56_lin.png" (from https://www.antattoo.net/artists/lindsey-pergentile)
+13:49:02	Error: 	"Not Found" (404) at link https://www.antattoo.net/artists/"https://assets-global.website-files.com/6494932f10d97a8d81da5667/64a3ab5aa25bdfc44786c082_antattoo site-6653.jpg" (from https://www.antattoo.net/artists/lindsey-pergentile)
+13:49:02	Error: 	"Not Found" (404) at link https://www.antattoo.net/artists/"https://assets-global.website-files.com/6494932f10d97a8d81da5667/64a3ada3a465ca8971a8ab37_Artboard 1.png" (from https://www.antattoo.net/artists/chiwon-an)
+13:49:02	Error: 	"Not Found" (404) at link https://www.antattoo.net/artists/"https://assets-global.website-files.com/6494932f10d97a8d81da5667/64a3adee588349ccc456843e_antattoo site-00038.jpg" (from https://www.antattoo.net/artists/chiwon-an)
+13:49:02	Error: 	"Not Found" (404) at link https://www.antattoo.net/artists/"https://assets-global.website-files.com/6494932f10d97a8d81da5667/64a3aa5e484f798860bbe426_Hyunjoo.png" (from https://www.antattoo.net/artists/hyunjoo-cho)
+13:49:02	Error: 	"Not Found" (404) at link https://www.antattoo.net/artists/"https://assets-global.website-files.com/6494932f10d97a8d81da5667/64a3aa510426ec4151f06188_antattoo site-7021.jpg" (from https://www.antattoo.net/artists/hyunjoo-cho)
+13:49:02	Error: 	"Not Found" (404) at link https://www.antattoo.net/artists/"https://assets-global.website-files.com/6494932f10d97a8d81da5667/64a3b123b6e5e826ff82c6ef_649e12378147432a7d6b9130_New An Tattoo Pic-0164.jpg" (from https://www.antattoo.net/artists/sunyul-irezumi)
+13:49:02	Error: 	"Not Found" (404) at link https://www.antattoo.net/artists/"https://assets-global.website-files.com/6494932f10d97a8d81da5667/64b783d67810eb4f162a68db_ANTATTOO re render -00072.jpg" (from https://www.antattoo.net/artists/sunyul-irezumi)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 19 seconds : 302 links scanned, 290 files written (426621965 bytes overall), 290 files updated [425451831 bytes received at 1333704 bytes/sec], 1950719 bytes transferred using HTTP compression in 29 files, ratio 29%, 8.7 requests per connection
+(9 errors, 0 warnings, 0 messages)
